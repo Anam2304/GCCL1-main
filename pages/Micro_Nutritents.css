@@ -1,0 +1,45 @@
+.history {
+    display: flex;
+    direction: row;
+    margin-top: 20px;
+}
+
+.history p {
+    color: black;
+
+}
+
+.history .details {
+    width: 50%;
+
+}
+
+.history .images {
+    width: 50%;
+    /* background-color: brown; */
+}
+
+.history img {
+    /* display: none; */
+    /* object-fit: contain; */
+    width: 100%;
+    height: 60%;
+}
+
+.page-details {
+    width: 100%;
+    height: 100px;
+    background-color: green;
+}
+
+.page-details .container {
+    display: flex;
+    align-items: center;
+    height: 100%;
+}
+
+.footer {
+    width: 100%;
+    height: 300px;
+    background-color: black;
+}

@@ -1,0 +1,22 @@
+.about {
+  margin: auto;
+  width: 1180px;
+  padding: 60px;
+  font-family: "Avenir", sans-serif;
+}
+
+p {
+  color: black;
+}
+
+.page-details {
+  width: 100%;
+  height: 100px;
+  background-color: green;
+}
+
+.page-details .container {
+  display: flex;
+  align-items: center;
+  height: 100%;
+}
