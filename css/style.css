@@ -7,22 +7,34 @@ body {
 
 a {
   text-decoration: none;
+}
+
+.list-unstyled li a {
+
+  color: white;
 
 
 }
 
-.top-nav {
-  /* background-color: khaki; */
-  /* padding-top: 5px;
-    padding-bottom: 5px; */
-  width: 100%;
+.list-unstyled li a i {
+  padding-right: 3px;
+
+
 }
 
-.top-nav-box {
+/* .top-nav {
+  background-color: khaki;
+  
+padding-top: 5px;
+padding-bottom: 5px;
+ width: 100%;
+} */
+
+/* .top-nav-box {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-}
+} */
 
 .social-link a {
   width: 34px;
